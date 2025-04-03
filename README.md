@@ -1,5 +1,5 @@
-#O CODIGO IMPUTADO SE VOLTA PARA USUARIO FINAL, PARA POSSIVEIS ALTERACOES OU ERROS EMAIL: pedro.pestana.pp1@csn.com.br ou chamar no teams, pessoalmente
+#O codigo aqui adicionado e feito para usuario final, voltado para facilitacao de uso. Se erros mandar mensagem para: pedro.pestana.pp1@csn.com.br  
+ou chamar no teams/pessoalmente. Fico a disposicao.
 
-NO COLAB COLAR LINK: https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/CODIGO_USUARIO_FINAL.ipynb
-
-A PRIMEIRA VEZ QUE O CODIGO E RODADO DEMORA EM MEDIA 7 MINUTOS, A DEPENDER DA INTERNET E DO CPU
+**NO COLAB COLAR LINK:**
+https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/V2_0_Leitor_Faturas.ipynb
