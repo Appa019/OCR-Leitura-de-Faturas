@@ -1,7 +1,7 @@
-O codigo aqui adicionado e feito para usuario final, voltado para facilitacao de uso. Se erros mandar mensagem para: pedro.pestana.pp1@csn.com.br  
-ou chamar no teams/pessoalmente. Fico a disposicao.
+**O CÓDIGO ADICIONADO FOI FEITO PARA USUÁRIO FINAL, VOLTADO PARA FACILITAÇÃO DE USO. SE HOUVER ERROS, ENVIAR MENSAGEM PARA: pedro.pestana.pp1@csn.com.br
+OU CHAMAR NO TEAMS/PESSOALMENTE. FICO À DISPOSIÇÃO.&&
 
-**Caminho Para Funcionamento:**
+****Caminho Para Funcionamento:****
 
 
 **1.** Entrar no Colab pelo Link: colab.research.google.com
