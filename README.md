@@ -4,7 +4,8 @@ OU CHAMAR NO TEAMS/PESSOALMENTE. FICO À DISPOSIÇÃO.**
 ****Caminho Para Funcionamento:****
 
 
-**Passo 1.** Entrar no Colab pelo Link: colab.research.google.com
+**Passo 1.** Entrar no Colab pelo Link: 
+colab.research.google.com
 
 **Passo 2.** Selecionar GitHub
 
@@ -16,8 +17,7 @@ OU CHAMAR NO TEAMS/PESSOALMENTE. FICO À DISPOSIÇÃO.**
 
 
 **NO COLAB COLAR LINK:**
-https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/V2_0_Leitor_Faturas.ipynb
-
+https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/OCR_CEMIG_AMPLA_ENEL_LIGHT_USUARIO_V2_4.ipynb
 
 **Passo 4.** Executar Celula e Esperar Esse Retorno, **so uma vez**.
 
