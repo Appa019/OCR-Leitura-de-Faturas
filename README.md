@@ -18,6 +18,8 @@ colab.research.google.com
 
 **NO COLAB COLAR LINK:**
 https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/Untitled17.ipynb
+
+
 **Passo 4.** Executar Celula e Esperar Esse Retorno, **so uma vez**.
 
 ![image](https://github.com/user-attachments/assets/1470ef7a-da3d-4be1-88bc-d68e84df80a8)
