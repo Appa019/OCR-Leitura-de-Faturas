@@ -17,7 +17,7 @@ colab.research.google.com
 
 
 **NO COLAB COLAR LINK:**
-https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/Untitled17.ipynb
+https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/Leitor_Faturas.ipynb
 
 
 **Passo 4.** Executar Celula e Esperar Esse Retorno, **so uma vez**.
