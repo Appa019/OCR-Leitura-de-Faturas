@@ -17,8 +17,8 @@ colab.research.google.com
 
 
 **NO COLAB COLAR LINK:**
-https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/Leitor_Faturas.ipynb
-
+API PAGA: https://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/Leitor_Faturas.ipynb
+GRATIS (rapido)://github.com/Appa019/OCR-Leitura-de-Faturas/blob/main/OCR_CEMIG_AMPLA_ENEL_LIGHT_USUARIO_V2_4.ipynb
 
 **Passo 4.** Executar Celula e Esperar Esse Retorno, **so uma vez**.
 
